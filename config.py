@@ -14,7 +14,7 @@ TMP_REP = os.path.join("..", "temporary_rep")
 WEIGHTS_PATH = os.path.join("HDC_weights")
 
 
-# FONT_PATHS_2 = [VERDANA_PATH, TIMES_PATH]
+# FONT_PATHS_2 = [VERDANA_PATH, TIMES_PATH] 
 FONT_PATHS = [VERDANA_PATH, VERDANA_PATH,
               TIMES_PATH, TIMES_PATH,
               HELVETICA_PATH,
